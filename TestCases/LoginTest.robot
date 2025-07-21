@@ -59,5 +59,4 @@ Login to swaglabs
     click login
     sleep   2
     verify title
-    Log     Succesfully Done
     Log to Console  Succesfully Done
